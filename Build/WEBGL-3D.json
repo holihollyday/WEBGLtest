@@ -1,0 +1,17 @@
+{
+"companyName": "AH|MA",
+"productName": "AH|MA",
+"productVersion": "0.1",
+"dataUrl": "WEBGL-3D.data.unityweb",
+"wasmCodeUrl": "WEBGL-3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL-3D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WEBGL-3D.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
